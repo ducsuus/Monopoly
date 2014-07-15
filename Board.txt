@@ -1,0 +1,40 @@
+Maryland St, True, 9000
+Number 1, True, 2000
+Number 2, True, 2000
+Number 3, True, 2000
+Apple Land Rd, True, 4000
+Train Station, False, 0
+Pear Lane, True, 9000
+Pineable St, True, 5000
+Jummbo Drive, True, 21000
+Not-A-Real-Place, True, 200
+Maryland St, True, 9000
+Number 1, True, 2000
+Number 2, True, 2000
+Number 3, True, 2000
+Apple Land Rd, True, 4000
+Train Station, False, 0
+Pear Lane, True, 9000
+Pineable St, True, 5000
+Jummbo Drive, True, 21000
+Not-A-Real-Place, True, 200
+Maryland St, True, 9000
+Number 1, True, 2000
+Number 2, True, 2000
+Number 3, True, 2000
+Apple Land Rd, True, 4000
+Train Station, False, 0
+Pear Lane, True, 9000
+Pineable St, True, 5000
+Jummbo Drive, True, 21000
+Not-A-Real-Place, True, 200
+Maryland St, True, 9000
+Number 1, True, 2000
+Number 2, True, 2000
+Number 3, True, 2000
+Apple Land Rd, True, 4000
+Train Station, False, 0
+Pear Lane, True, 9000
+Pineable St, True, 5000
+Jummbo Drive, True, 21000
+Not-A-Real-Place, True, 200
